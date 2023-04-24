@@ -13,7 +13,7 @@
 				<string>https://apple.dns.nextdns.io/881bd9</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>Cấu Hình 1</string>
+			<string>CH 1</string>
 			<key>PayloadIdentifier</key>
 			<string>io.nextdns.881bd9.profile.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
@@ -41,7 +41,7 @@
 				<string>https://dns.nextdns.io/a7cf95</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>Cấu Hình 2</string>
+			<string>CH 2</string>
 			<key>PayloadIdentifier</key>
 			<string>io.nextdns.a7cf95.profile.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
@@ -58,16 +58,16 @@
 	<string>NextDNS ZuneTeam
  - Tích Hớp 2 Cấu Hình DNS Đều Có Tác Dụng Chặn thu hồi Chứng chỉ 
 
- - Cấu Hình 1 Dùng Để Xác Minh App
+ - CH 1 Dùng Để Xác Minh App
     Có Tích Hợp Chặn QC  
- ( Cấu Hình 1 Này Cũng Có Thể Cài App )
-Muốn Chặn Thu Hồi + Chặn Qc thì Ae Dùng Cấu Hình 1
+ ( CH 1 Này Cũng Có Thể Cài App )
+Muốn Chặn Thu Hồi + Chặn Qc thì Ae Dùng CH 1
 
-- Cấu Hình 2 Dùng Để Cài App
+- CH 2 Dùng Để Cài App
 Tỉ Lệ Cài App Thành Công Cao
 Có Tích Hợp Chặn Thu Hồi Và Không Có Chặn QC
-Nếu Dùng Cấu Hình 2 Cài App Thành Công Quay lại Cấu Hình 1 Để Xác Minh App
-Nếu Ae Không Muốn Chặn QC Thì Hãy Dùng Cấu Hình Thứ 2 Này Để Chặn Thu Hồi
+Nếu Dùng CH 2 Cài App Thành Công Quay lại CH 1 Để Xác Minh App
+Nếu Ae Không Muốn Chặn QC Thì Hãy Dùng CH Thứ 2 Này Để Chặn Thu Hồi
 
 Lưu Ý Khi Dùng Chặn Thu Hồi
 Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE Và Dùng VPN
