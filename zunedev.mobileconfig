@@ -25,7 +25,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>NextDNS Edit By Khơindvn
+	<string>Chặn Thu Hồi Zune
 - Chặn thu hồi chứng chỉ free 
 - Chặn quảng cáo trung gian qua DNS ( 80% lượng QC dc tắt ).
 - Không bị hao pin và thiếu ổn định như kết nối như qua VPN.
@@ -33,7 +33,7 @@
 - Hỗ trợ chặn quảng cáo trên nền 3G,4G và Wifi.
 - Chặn Ads trên App và Web.</string>
 	<key>PayloadDisplayName</key>
-	<string>NextDNS Edit By Khơindvn</string>
+	<string>Chặn Thu Hồi Zune</string>
 	<key>PayloadIdentifier</key>
 	<string>NextDns</string>
 	<key>PayloadRemovalDisallowed</key>
